@@ -1,0 +1,17 @@
+.gradle
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+test_sftp/build/
+.DS_Store
+**/*/.DS_Store
+
+/src/main/generated/**
+**/generated/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+xsd/out/**
